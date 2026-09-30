@@ -1,0 +1,6 @@
+{
+  "name": "PDFCalc Hub - أدوات PDF وحاسبات مالية",
+  "description": "منصة متكاملة لأدوات تعديل وضغط ودمج ملفات PDF محلياً في المتصفح وحاسبات مالية ومحاسبية متقدمة متوافقة مع معايير Google AdSense وSEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
